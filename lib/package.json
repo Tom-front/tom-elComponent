@@ -1,0 +1,16 @@
+{
+  "name": "tom-element-components",
+  "version": "1.0.1",
+  "description": "tom-element-components",
+  "main": "index.umd.js",
+  "module": "index.js",
+  "types": "index.d.ts",
+  "author": {
+    "name": "tom"
+  },
+  "keywords": [
+    "element-plus",
+    "ts",
+    "封装组件"
+  ]
+}
